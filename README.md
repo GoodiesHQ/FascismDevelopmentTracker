@@ -1,4 +1,4 @@
-# FascismTracker
+# Fascism Development Tracker (FDT)
 A Collaborative Effort for Tracking US Descent into Fascism During Trump 47
 
 The table below outlines 14 characteristics commonly associated with fascist regimes. It is important to note that the presence of any single characteristic does not, in isolation, define a political system as fascist. For instance, national pride is not inherently fascistic; however, when patriotic sentiment is combined with other elements, such as the suppression of human rights, control over the mass media, and the intertwining of religion with state power, the cumulative effect can lead to a fascistic regime. In essence, it is the aggregation of these tendencies, rather than any one feature alone, that may signal the emergence or existence of fascism.
